@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  gameNode.cpp
+  image.cpp
+c:\users\home\desktop\과제\주마알과제에\숫자슬라이드\windowapi\image.cpp(69): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+  input.cpp
+  mainGame.cpp
+  random.cpp
+  winMain.cpp
+  코드를 생성하고 있습니다...
+  GameFramework2D.vcxproj -> C:\Users\HOME\Desktop\과제\주마알과제에\숫자슬라이드\WindowAPI\Debug\GameFramework2D.exe
